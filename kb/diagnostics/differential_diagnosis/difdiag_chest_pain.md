@@ -42,7 +42,7 @@ last_medical_review: "2026-04-09"
 medical_reviewer: ""
 author: "Инженер знаний №1"
 version: "1.0"
-date_created: "2026-04-08"
+date_created: "2026-03-20"
 date_updated: "2026-04-09"
 status: "medical_review"
 disclaimer: true
